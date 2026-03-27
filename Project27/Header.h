@@ -4,7 +4,7 @@
 #include <ctime>
 #include <cstdlib>
 #include <fstream>
-#include "nlohmann/json.hpp"
+#include "json.hpp"
 
 using namespace std;
 
