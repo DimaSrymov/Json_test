@@ -24,10 +24,9 @@ Build the project and run it via Visual Studio
 ## 📁 Project Structure
 
 ```
-/Project28
- ├── main.cpp
- ├── func.h
- ├── func.cpp
+/Project27
+ ├── Source.cpp
+ ├── Header.h
  └── json.hpp
 ```
 
